@@ -9,13 +9,7 @@
 
 📫 Puedes contactarme a través de mi correo: [juanpivl@hotmail.com](mailto:juanpivl@hotmail.com) o por teléfono: (662)-191-17-02.
 
-😄 Pronombres: Él/Él.
-
 ⚡ Dato curioso: Disfruto explorar nuevas tecnologías y tendencias en el mundo de la programación y el aseguramiento de la calidad.
-
-## Experiencia
-- QA Tester en Gila Software desde febrero de 2022.
-- Full Stack Developer en Gila Software desde junio de 2023.
 
 ## Educación
 - Ingeniería en Sistemas Computacionales, Instituto Tecnológico de Hermosillo (2018 - 2022).
@@ -24,6 +18,7 @@
 - Desarrollo móvil con Flutter e Ionic.
 - Desarrollo Frontend con React y Vue.
 - Automatización de pruebas con Selenium IDE, y WebDriver en Java y JavaScript.
+- Automatizacion de pruebas con Cypress ts y js.
 
 ## Idiomas
 - Español nativo.
